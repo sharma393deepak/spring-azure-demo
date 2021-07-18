@@ -26,7 +26,7 @@ public class OrderController {
 
     @GetMapping("/getOrder")
     public String getOrder(){
-        return "welcome to order micro service in azure cloud platform";
+        return "welcome to order micro service in azure cloud platform to book order";
     }
 
 }
