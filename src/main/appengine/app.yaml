@@ -1,0 +1,7 @@
+runtime: java
+env: flex
+runtime-config:
+  jdk: openjdk8
+handlers:
+  url: /.*
+  scripts: this field is required
